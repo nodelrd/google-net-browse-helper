@@ -9,3 +9,7 @@ This is a browser plugin for students, developers, cross-border workers, and res
 - 打开开发者模式
 - 点击"加载已解压的扩展程",选中刚才解压出来的 vxxxxx 目录
 - 完成
+
+# 如何反馈问题
+- 从 <a href="https://github.com/nodelrd/google-net-browse-helper/issues" target="_blank">issues</a> 进入
+- 点击 New issues 创建新问题
