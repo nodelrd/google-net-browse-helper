@@ -22,3 +22,6 @@ This is a browser plugin for students, developers, cross-border workers, and res
 - [ ] iphone 客户端
 - [ ] 分布式自由网络（趋向0成本）
 - [ ] 其他
+
+# 赞助
+- 如果您喜欢我们的程序，请购买付费网络，所有收益都将用于项目推进
