@@ -20,8 +20,8 @@ This is a browser plugin for students, developers, cross-border workers, and res
 - [ ] windows 客户端
 - [ ] 安卓 客户端
 - [ ] iphone 客户端
-- [ ] 分布式自由网络（趋向0成本）
-- [ ] 其他（如何让使用者获得收益）
+- [ ] 为了自由（分布式自由网络）
+- [ ] 其他（创造未来）
 - 如果您有需要的开发功能，请参考 如何反馈问题 提出您的意见
 
 # 赞助
