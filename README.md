@@ -20,6 +20,5 @@ This is a browser plugin for students, developers, cross-border workers, and res
 - [ ] windows 客户端
 - [ ] 安卓 客户端
 - [ ] iphone 客户端
-- [ ] 分布式自由网络
-- [ ] 免费分布式自由网络（趋向0成本）
+- [ ] 分布式自由网络（趋向0成本）
 - [ ] 其他
