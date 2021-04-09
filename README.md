@@ -13,3 +13,12 @@ This is a browser plugin for students, developers, cross-border workers, and res
 # 如何反馈问题
 - 从 <a href="https://github.com/nodelrd/google-net-browse-helper/issues" target="_blank">issues</a> 进入
 - 点击 New issues 创建新问题
+
+# 功能
+- [ ] mac 客户端
+- [ ] windows 客户端
+- [ ] 安卓 客户端
+- [ ] iphone 客户端
+- [ ] 分布式自由网络
+- [ ] 免费分布式自由网络（趋向0成本）
+- [ ] 其他
