@@ -15,6 +15,7 @@ This is a browser plugin for students, developers, cross-border workers, and res
 - 点击 New issues 创建新问题
 
 # 功能
+- [x] 浏览器 插件
 - [ ] mac 客户端
 - [ ] windows 客户端
 - [ ] 安卓 客户端
