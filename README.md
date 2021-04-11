@@ -16,6 +16,7 @@ This is a browser plugin for students, developers, cross-border workers, and res
 
 # 功能
 - [x] 浏览器 插件
+  - [ ] 目标地区选择
 - [ ] mac 客户端
 - [ ] windows 客户端
 - [ ] 安卓 客户端
