@@ -19,7 +19,7 @@ This is a browser plugin for students, developers, cross-border workers, and res
   - [x] bbc cbs 支持（no free network）配合白名单使用
   - [ ] 目标地区选择
 - [x] mac 客户端(正在进行中)
-- [x] windows 客户端
+- [x] windows 客户端(正在进行中)
 - [ ] 安卓 客户端
 - [ ] iphone 客户端
 - [ ] 为了自由（分布式自由网络）
